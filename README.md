@@ -61,7 +61,7 @@
 - [Зеркало YandexCloud для загрузки Terraform](https://hashicorp-releases.yandexcloud.net/terraform/)    
 - [Инструкция по настройке провайдера](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#configure-terraform)  
 
-
+![ts4-1](/scrshts/ts4-1.png?raw=true "Optional Title")
 
 
 ### Задание 5*
