@@ -62,6 +62,9 @@
 - [Инструкция по настройке провайдера](https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart#configure-terraform)  
 
 ![ts4-1](/scrshts/ts4-1.png?raw=true "Optional Title")
+![ts4-2](/scrshts/ts4-2.png?raw=true "Optional Title")
+![ts4-3](/scrshts/ts4-3.png?raw=true "Optional Title")
+![ts4-4](/scrshts/ts4-4.png?raw=true "Optional Title")
 
 
 ### Задание 5*
